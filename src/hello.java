@@ -1,12 +1,9 @@
-import javax.swing.JOptionPane;
-
 /**
- * hello
+ * hello world 
  */
 public class hello {
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "Hello world from Ubuntu 18.04", "", 
-        JOptionPane.INFORMATION_MESSAGE);
+        System.out.println("Hello world from Java");
     }
     
 }

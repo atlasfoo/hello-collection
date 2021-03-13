@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout<<"Hello world from ubuntu 18.04"<<endl;
+    cout<<"Hello world from C++"<<endl;
     return 0;
 }
